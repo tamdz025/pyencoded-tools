@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 import argparse
 import os.path
-import encodedcc
+import encoded
 import json
 import xlrd
 import datetime
